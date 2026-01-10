@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "P.I.C.",
+  "base_artist": "≠ME",
+  "createdAt": "2026-01-10T05:59:04.439445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1-900-S.P.I.C.E.",
+      "artist": "Spice 1",
+      "has_synced": false,
+      "path": "select/01_1-900-S.P.I.C.E._Spice_1.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "S.P.I.C.E",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/02_S.P.I.C.E_Spice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Won't Go Quietly (E.P.I. C radio edit)",
+      "artist": "Example",
+      "has_synced": false,
+      "path": "select/03_Won't_Go_Quietly_(E.P.I._C_radio_edit)_Example.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Partna In Crime (P.I.C.)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/04_Partna_In_Crime_(P.I.C.)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "P.I.C. (Partner in Crime)",
+      "artist": "iiO feat. Nadia Ali",
+      "has_synced": false,
+      "path": "select/05_P.I.C._(Partner_in_Crime)_iiO_feat._Nadia_Ali.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "P.I.C.",
+      "artist": "iiO feat. Nadia Ali",
+      "has_synced": false,
+      "path": "select/06_P.I.C._iiO_feat._Nadia_Ali.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "P.I.C. (Partner in Crime)",
+      "artist": "iiO",
+      "has_synced": false,
+      "path": "select/07_P.I.C._(Partner_in_Crime)_iiO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "P.I.C.",
+      "artist": "iiO",
+      "has_synced": false,
+      "path": "select/08_P.I.C._iiO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "P.I.C. (Partner in Crime)",
+      "artist": "iiO feat. Ali, Nadia",
+      "has_synced": false,
+      "path": "select/09_P.I.C._(Partner_in_Crime)_iiO_feat._Ali,_Nadia.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.I.C.",
+      "artist": "iiO feat. Ali, Nadia",
+      "has_synced": false,
+      "path": "select/10_P.I.C._iiO_feat._Ali,_Nadia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "P.I.C.U.S.",
+      "artist": "Picus",
+      "has_synced": true,
+      "path": "select/11_P.I.C.U.S._Picus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "P.I.C.",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/12_P.I.C._≠ME.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "p i c k i t u p",
+      "artist": "Jeff Rosenstock",
+      "has_synced": true,
+      "path": "select/13_p_i_c_k_i_t_u_p_Jeff_Rosenstock.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "P I C C A S S O",
+      "artist": "brenn.",
+      "has_synced": true,
+      "path": "select/14_P_I_C_C_A_S_S_O_brenn..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "P . I . C . O",
+      "artist": "Los Chicos Del Sexo",
+      "has_synced": true,
+      "path": "select/15_P_._I_._C_._O_Los_Chicos_Del_Sexo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "P.I.C.",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_P.I.C._≠ME.txt"
+    }
+  ]
+}
